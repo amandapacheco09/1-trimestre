@@ -21,13 +21,13 @@ section {
 
 
 .nav-link {
-    color: #CB6D43;
+    color: #ee0202;
     font-weight: 600;
 }
 
 .inicio-fundo {
     /* aula 3 */
-    background-image: url('img/4965007.jpg');
+    background-image: url('img/Kick_Buttowski_%28character%29.webp');
     /* Substitua pelo caminho da sua imagem */
     background-size: cover;
     background-position: right;
